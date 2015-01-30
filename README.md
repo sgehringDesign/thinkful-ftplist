@@ -1,2 +1,2 @@
-# thinkful-move-lists
-FTP LIST / Shopping List Exercise
+# THINKFUL EXERCISE / MOVING LIST ITEMS EXPERIMENT  
+=======
