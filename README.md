@@ -1,2 +1,1 @@
-# THINKFUL EXERCISE / MOVING LIST ITEMS EXPERIMENT  
-=======
+# Thinkful.com Exercise: Moving List Items   
